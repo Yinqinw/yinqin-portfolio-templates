@@ -11,9 +11,9 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Name: Yinqin
-Pronouns: she/her
-Carnegie Mellon University - Master of Entertainment Industry Management (MEIM) '26
+- Name: Yinqin
+- Pronouns: she/her
+- Carnegie Mellon University - Master of Entertainment Industry Management (MEIM) '26
 
 # What I hope to learn
 - Better understanding of data visualization
