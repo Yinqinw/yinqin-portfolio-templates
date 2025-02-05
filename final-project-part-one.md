@@ -51,13 +51,13 @@ How the Data Will Be Used:
 |------|-----|-------------|
 | Maoyan Pro | https://pro.maoyan.com |Chinese box office data|
 | Dengta（灯塔专业版)| Mobile app, no official website available|Chinese box office data|
-| Box Office Mojo|https://www.boxofficemojo.com| North American box office data|
-| The Numbers|https://www.the-numbers.com| North American box office data|
-| Weibo|https://weibo.com|Social media trends, fan engagement, and follower count in China|
-|Xiaohongshu|https://www.xiaohongshu.com|Fan discussions and user-generated content in China|
-|Douyin|https://www.douyin.com|Lower-tier cities audience and more casual moviegoers in China|
-|Twitter|https://www.twitter.com|Hashtag trends and fan base size in the US|
-|Instagram|https://www.instagram.com|Celebrity fan base size and hashtag usage in the US|
+| Box Office Mojo| https://www.boxofficemojo.com| North American box office data|
+| The Numbers| https://www.the-numbers.com | North American box office data|
+| Weibo| https://weibo.com |Social media trends, fan engagement, and follower count in China|
+|Xiaohongshu| https://www.xiaohongshu.com |Fan discussions and user-generated content in China|
+|Douyin| https://www.douyin.com |Lower-tier cities audience and more casual moviegoers in China|
+|Twitter| https://www.twitter.com |Hashtag trends and fan base size in the US|
+|Instagram| https://www.instagram.com |Celebrity fan base size and hashtag usage in the US|
 
 
 # Method and medium
@@ -66,7 +66,7 @@ I plan to use Tableau to create data visualizations and a web page generate thro
 ## References
 _Box Office Mojo (https://www.boxofficemojo.com)_
 
-_The Numbers https://www.the-numbers.com_
+_The Numbers (https://www.the-numbers.com)_
 
 _Maoyan Pro (https://pro.maoyan.com)_
 
