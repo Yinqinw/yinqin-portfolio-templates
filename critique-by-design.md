@@ -50,27 +50,18 @@ Questions to ask:
 
     One said that it is interesting to see that Russia's military spending is going down given that they are in a state of war.
 
-    Other two of my teammates said they are surprise to see how much US spend in military and they are the highest.
+    Other two of my teammates said they were surprised to see how much the US spends on the military and they are the highest.
 
 - Who do you think is the intended audience for this?
 
-    UN, government entity. One said this graph is intend to inform the US they spend too much on military.
+    UN, government entity. One said this graph is intended to inform the US that they spend too much on military.
 - Is there anything you would change or do differently?
+   
+    They pointed out that I should label the number and also put the country's name right next to the line so that the readers will not need to match them together with their eyes. Also in my original sketch, I only draw 5 countries but I write a title of 10 countries. So they think I should either add 5 more countries or change the title.
 
-Results: 
+Results: They think my adjustment to make a line chart makes more sense than the original pie chart because it shows more information and visualizes the trends.
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Synthesis: The feedback is about details in the graph like labels, titles and numbers. I learned that I need to be more detailed in my final draft.
 
 ## Step five: build the solution
 <div class='tableauPlaceholder' id='viz1739470541277' style='position: relative'><noscript><a href='#'><img alt='Military Spending of the Top 10 Countries (2010–2023) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;mi&#47;militaryspending_17394702202250&#47;2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='militaryspending_17394702202250&#47;2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;mi&#47;militaryspending_17394702202250&#47;2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>
@@ -81,8 +72,9 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 [Link to this graph⬆️](https://public.tableau.com/views/1_17394716023380/1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
+I used Tableau to create my final graph. In the "SIPRI Military Expenditure Database", I am able to find the data for more countries. So instead of changing my title from 10 to 5 countries, I add 5 more countries' data. I created a line chart similar to my sketch, which shows the trend over a period of time and makes comparisons between different countries, but by using Tableau, readers can click on the line they are interested in and see the numbers themselves. It is more convenient for them to show specific numbers and labels they chose instead of seeing all the information at once which sometimes can be overwhelming. Also, I don't know how to add numbers next to a line in Tableau, so I am not able to make this change on my teammate's feedback.
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+Additionally, in the original article, they used a pie chart to show one year of military spending, but as I mentioned in the Google Form, I don't think the irregular shape is effective in terms of delivering the message. So I create a regular pie chart as well.
 
 ## References
 
