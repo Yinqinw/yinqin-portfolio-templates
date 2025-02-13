@@ -10,7 +10,8 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 ## Step one: the visualization
 Title of the article: "Ranked: Top 10 Countries by Military Spending"
 
-link: [https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending](https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending)
+link: [https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending](https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending) (Conte, 2022)
+
 
 I selected this graph because the overall green color immediately caught my eye and the top about military spending is relevantly new to me, so I think I can approach it with a fresh eye and gain some new knowledge about the military.
 
@@ -47,13 +48,17 @@ My three teammates in class are from Health Care, MEIM and PPM program.
 Questions to ask: 
 - Can you tell me what you think this is?
 
-  Both three said it is a military expanse graph and it's clear to see that.
+    Both three said it is a military expanse graph and it's clear to see that.
 
 - Is there anything you find surprising or confusing?
-One said that it is interesting to see that Russia's military spending is going down given that they are 
-how US spend, the highest
+
+    One said that it is interesting to see that Russia's military spending is going down given that they are in a state of war.
+
+    Other two of my teammates said they are surprise to see how much US spend in military and they are the highest.
+
 - Who do you think is the intended audience for this?
 
+    UN, government entity. One said this graph is intend to inform the US they spend too much on military.
 - Is there anything you would change or do differently?
 
 Results: 
@@ -76,7 +81,9 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
+
+Conte, N. (2022, August 18). Ranked: Top 10 Countries by Military Spending. Visual Capitalist. https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/
+
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
