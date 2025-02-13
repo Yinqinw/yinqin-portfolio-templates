@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
+# Assignment: Critique and redesign
 Text here...
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
@@ -12,26 +12,46 @@ Title of the article: "Ranked: Top 10 Countries by Military Spending"
 
 link: [https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending](https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending)
 
-
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+I selected this graph because the overall green color immediately caught my eye and the top about military spending is relevantly new to me, so I think I can approach it with a fresh eye and gain some new knowledge about the military.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+Here is the summary of what I scored in the Google Form
+
+- Usefulness: 6
+- Completeness: 9
+- Perceptibility: 4
+- Truthfulness: 7
+- Intuitiveness: 7
+- Aesthetics: 4
+- Engagement: 8
+
+_Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently?_
+
+**My answer:** I think this graph is overall clear about what it means. I can see each country’s military spending immediately. However, the color assigned to different countries is not clear. At first, I thought the lighter the green is, the lower the military spending is for those countries. But then I noticed that No.2, 3, 8, 10 and 9 are in the same color. It was very confusing until one of my teammates in class pointed out that the colors were assigned by regions like Asia, Europe and North America. But I still think there is no need to assign colors like that. Also, the shape of each area is irregular. This is not helpful for readers to see the percentage of each country's military spending directly. I think a regular pie chart will be enough to show that.
+
+_Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not?_
+
+**My answer:** United Nations, military analysts, government and military forces are the primary audience. I think overall this graph is effective for reaching those audiences because it shows the most important information in a prominent way despite some minor ambiguity.
+
+_Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)_
+
+**My answer:** I think this method asks more about general feelings instead of judgment. It can add some questions directly asking about details like "Is the color combination reasonable?" Or "Is the layout the reasonable type for delivering information?"
 
 ## Step three: Sketch a solution
 
+
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+My three teammates in class are from Health Care, MEIM and PPM program.
 
-Questions to ask (modify these for your own interviews): 
-
+Questions to ask: 
 - Can you tell me what you think this is?
 
-- Can you describe to me what this is telling you?
+  Both three said it is a military expanse graph and it's clear to see that.
 
 - Is there anything you find surprising or confusing?
-
+One said that it is interesting to see that Russia's military spending is going down given that they are 
+how US spend, the highest
 - Who do you think is the intended audience for this?
 
 - Is there anything you would change or do differently?
