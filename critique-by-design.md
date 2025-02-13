@@ -39,7 +39,8 @@ _Final thoughts: how successful what this method at evaluating the data visualiz
 **My answer:** I think this method asks more about general feelings instead of judgment. It can add some questions directly asking about details like "Is the color combination reasonable?" Or "Is the layout the reasonable type for delivering information?"
 
 ## Step three: Sketch a solution
-
+![IMG_0236](https://github.com/user-attachments/assets/d7ca9e24-9f3e-4ec0-85d5-1e076677aef1)
+![IMG_0237](https://github.com/user-attachments/assets/da8bdf24-10f3-4944-80e3-5c86991d5836)
 
 ## Step four: Test the solution
 
