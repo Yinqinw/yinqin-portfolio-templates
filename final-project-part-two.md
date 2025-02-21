@@ -17,63 +17,33 @@ I hope to reach this story to:
 ## Interviewees 
 How do I identify representative individuals: In class assigned teammates will be my interviewees. 
 
-My three teammates are from MAM, PPM and MISM program.
+My three teammates are from the MAM, PPM and MISM programs.
 
 ## Interview script
-> The goals from me research is to hear feedbacks from someone isn't familiar with this field and to see whether they can understand it and think my content is clear and engaging enough for the aoudience.
+> The goals of my research are to hear feedback from someone who isn't familiar with this field and to see whether they can understand it and think my content is clear and engaging enough for the audience.
 
+### Question to Ask
 1. Was the main message clear to you? Did you understand what this project is trying to show?
 2. Which part of the visuals or explanations was the most engaging? What did you like the most?
 3. Was anything confusing or missing? Are there areas where you wanted more explanation or a different presentation of data?
 4. How can I improve this project? What suggestions do you have for making the story or visuals clearer and more engaging?
-   
-
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1  | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+| 1. Was the main message clear to you? | All interviewees said the main message is clear and easy to understand |
+| 2. What did you like the most?| The comparison between China and the American market and how it challenges assumptions about star power|The content on how fans' hype can backfire - found it relatable as a social media user|Also the comparison between the market, provides new information she didn't know before|
+| 3. Was anything confusing or missing?|“The Last Duel” example could use more explanation|Some technical terms could be clarified for fans that are not familiar with it|The charts need clearer labeling and explanation|
+| 4. How can I improve it?|Add a short explanation of other factors about this example|Consider adding a brief definition section for key terms|Improve chart clarity|
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
-## References
-_List any references you used here._
+- I am considering changing “The Last Duel” example to another film that can better build my case, but if I can't find a film I want, I will come back to this one in the end.
+- I am planning to add a key term section to briefly explain key industry terms since my target audience is not all inside the industry.
+- Lastly, **I need to improve all my charts greatly**. Find more data and create metrics that can measure the vague star power into numbers.
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
