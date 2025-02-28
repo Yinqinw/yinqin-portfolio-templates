@@ -4,7 +4,10 @@
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
 Text here!
+
 I have worked in the Chinese film industry and I know from my first-hand experience that movie poster once post, can be viewed as public marketing material that can be distributed freely as long as the purpose is non-profit, and even in the for-profit pitch deck, we can use it too. So I'm sure it is ok for me to use it here. But I don't know if it is the same in the American film industry so I deleted all the posters in my second part.
+
+因为我用的例子中有的电影还正在上映，票房实时更新的，所以我在这部分把票房数据都更新到最新的数字
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
