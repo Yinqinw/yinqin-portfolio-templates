@@ -24,10 +24,12 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 [final project I](https://yinqinw.github.io/yinqin-portfolio-templates/final-project-part-one) 
+
 [final project II](https://yinqinw.github.io/yinqin-portfolio-templates/final-project-part-two) 
+
 [final project III](https://yinqinw.github.io/yinqin-portfolio-templates/final-project-part-three)
 
-## Addition material for future use
+## Additional material for future use
 `[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
 
 Any of those formats will work. Here's some examples of working links: 
