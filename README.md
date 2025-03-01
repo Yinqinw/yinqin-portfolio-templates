@@ -16,9 +16,6 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 ## final assignment
 [Does Star Power Equal Box Office Success? Celebrity Impact and Franchise in China & North America Film Industry](https://carnegiemellon.shorthandstories.com/d7528867-9f9c-47b5-b112-f83ac2d325f5/index.html)
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
 ## Assignment 3&4:
 [critique by design](https://yinqinw.github.io/yinqin-portfolio-templates/critique-by-design)  
 
