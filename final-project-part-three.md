@@ -1,40 +1,25 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
-
-I have worked in the Chinese film industry and I know from my first-hand experience that movie poster once post, can be viewed as public marketing material that can be distributed freely as long as the purpose is non-profit, and even in the for-profit pitch deck, we can use it too. So I'm sure it is ok for me to use it here. But I don't know if it is the same in the American film industry so I deleted all the posters in my second part.
-
-因为我用的例子中有的电影还正在上映，票房实时更新的，所以我在这部分把票房数据都更新到最新的数字
+Link to my final data story in shorthand:
+- Preview link: [https://preview.shorthand.com/n3TJPiUt112zR4Jx](https://preview.shorthand.com/n3TJPiUt112zR4Jx)
+- Publish link: [https://carnegiemellon.shorthandstories.com/d7528867-9f9c-47b5-b112-f83ac2d325f5/index.html](https://carnegiemellon.shorthandstories.com/d7528867-9f9c-47b5-b112-f83ac2d325f5/index.html) **(The GitHub charts sometimes don't load on the publish link, but the first preview link always works.)**
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+Since Part II, I developed the North American market section in my project to create a more complete and cohesive story. In parts 1 and 2, I originally planned to use "The Last Duel" as an example to show how star power impacts film box office in the American film industry. But after I finished the Chinese market section, I realized that if I give another example of the impact and change of star power on a single film would feel repetitive and boring for the audience. So in order to keep the content engaging, I decided to take a different approach for North America, focusing on actors and their relationship with franchise storytelling. This also allowed me to highlight subtle differences in how star power is influenced by different factors in China and North America, beyond the same declining trend.
 
-Text here!
+Additionally, because some of the films used as examples are still in theaters, I updated their box office data to reflect the most recent numbers.
+
+Regarding copyright concerns, I saw the feedback from Part II and checked my use of movie posters. I decided to remove all American movie posters while keeping the Chinese ones. Because I have worked in the Chinese film industry and have been deeply involved in film marketing work there. Based on my first-hand experience, I know that movie posters in China are generally considered public materials that can be freely used for non-commercial purposes and even in for-profit documents. When I worked in film marketing, we were allowed to use official posters and celebrity images in pitch decks and briefs. However, I am not sure if the same applies to the American industry, so I chose to remove some posters and keep some for visual considerations. I also added citations and links on my shorthand page for all the posters I used.
+
+Lastly, I modified the call-to-action section to make it clearer and more actionable. Previously, my recommendations were too broad, so I revised them to provide more specific and practical suggestions.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+My target audience remained the same as I initially planned in Part I:
+- Film industry professionals
+- Fan communities
 
-Text here!
-
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
+Overall my target audience hasn't changed much. For film industry practitioners, I just further divided this group into two parts, producers and marketers, because I want to provide more detailed suggestions for each area. Other than this I followed my design in part 1 just well.
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
-
-## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
-
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
-
-
+I use APA 7th style for all my citations in Shorthand.
