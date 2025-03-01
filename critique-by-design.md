@@ -1,4 +1,4 @@
-| [home page](https://yinqinw.github.io/yinqin-portfolio-templates)| [data viz examples](dataviz-examples) | [critique by design](https://yinqinw.github.io/yinqin-portfolio-templates/critique-by-design) | [final project I](https://yinqinw.github.io/yinqin-portfolio-templates/final-project-part-one) | [final project II](https://yinqinw.github.io/yinqin-portfolio-templates/final-project-part-two) | [final project III](https://yinqinw.github.io/yinqin-portfolio-templates/final-project-part-three) |
+| [home page](https://yinqinw.github.io/yinqin-portfolio-templates)| [data viz examples](https://yinqinw.github.io/yinqin-portfolio-templates/dataviz-examples) | [critique by design](https://yinqinw.github.io/yinqin-portfolio-templates/critique-by-design) | [final project I](https://yinqinw.github.io/yinqin-portfolio-templates/final-project-part-one) | [final project II](https://yinqinw.github.io/yinqin-portfolio-templates/final-project-part-two) | [final project III](https://yinqinw.github.io/yinqin-portfolio-templates/final-project-part-three) |
 
 # Assignment: Critique and redesign
 
